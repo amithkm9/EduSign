@@ -20,7 +20,7 @@ EduSign is an interactive sign language education platform designed to make sign
 - **Interactive Quizzes**: Test your sign language skills with webcam-based quizzes
 - **Sign Translation**: Translate basic sign language gestures into multiple languages
 - **Interactive Quizzes**: Test your sign language skills with webcam-based quizzes
-- ****Sign Recognition**: Real-time recognition of numbers and letters in sign language using webcam.
+- **Sign Recognition**: Real-time recognition of numbers and letters in sign language using webcam.
 - **User Authentication**: Create an account to track progress and access personalized content
 
 ## 📋 Technology Stack
