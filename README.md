@@ -17,9 +17,10 @@ EduSign is an interactive sign language education platform designed to make sign
 ## 🌟 Features
 
 - **Interactive Tutorials**: Age-appropriate sign language lessons categorized by difficulty level
-- **Sign Recognition**: Real-time recognition of numbers and letters in sign language using webcam
+- **Interactive Quizzes**: Test your sign language skills with webcam-based quizzes
 - **Sign Translation**: Translate basic sign language gestures into multiple languages
 - **Interactive Quizzes**: Test your sign language skills with webcam-based quizzes
+- ****Sign Recognition**: Real-time recognition of numbers and letters in sign language using webcam.
 - **User Authentication**: Create an account to track progress and access personalized content
 
 ## 📋 Technology Stack
@@ -27,19 +28,15 @@ EduSign is an interactive sign language education platform designed to make sign
 ### Frontend
 - HTML, CSS, JavaScript
 - EJS (Embedded JavaScript Templates)
-- jQuery for DOM manipulation
 
 ### Backend
 - Node.js with Express.js framework
-- Axios for API communication
+- FastAPI for Python integration with the frontend.
 
 ### AI and Machine Learning
 - TensorFlow for sign language recognition models
 - MediaPipe for hand tracking and landmark detection
 - Python FastAPI backends for processing sign language
-
-### Authentication
-- Firebase Authentication
 
 ## 🚀 Getting Started
 
