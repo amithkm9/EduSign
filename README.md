@@ -1,4 +1,4 @@
-# EduSign - Sign Language Education Platform
+# EduSign - Sign Language Learning Platform
 
 ![EduSign Logo](public/assets/logo.jpg)
 
