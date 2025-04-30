@@ -1,7 +1,5 @@
 # EduSign - Sign Language Learning Platform
 
-![EduSign Logo](public/assets/logo.jpg)
-
 **Breaking barriers, building bridges: Sign language at every child's fingertips.**
 
 EduSign is an interactive sign language education platform designed to make sign language learning accessible to children ages 2-15. The platform features tutorials, quizzes, sign language recognition, and translation capabilities.
