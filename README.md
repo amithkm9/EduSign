@@ -9,7 +9,7 @@ EduSign is an interactive sign language education platform designed to make sign
 ## 📸 Screenshots
 
 ### Home Page
-![EduSign Home Page](docs/screenshots/home-page.png)
+![EduSign Home Page](public/assets/img/a1.jpg)
 
 ### Tutorial Page
 ![EduSign Tutorials Page](docs/screenshots/tutorials-page.png)
